@@ -101,8 +101,8 @@ Requisitos não funcionais
 
 #### Sprint 2. 
 
-- [ ] Realizar um brainstorm para a execução das atividades/tarefas no Sprint 2;
-- [ ] Entender as necessidades do cliente para o Sprint 2;
+- [ ] Realizar um brainstorm para a execução das atividades/tarefas;
+- [ ] Entender as necessidades do cliente;
 - [ ] Analisar os dados NCM;
 - [ ] Analisar os dados de País/UF;
 - [ ] Estudar boas praticas para construção de dashboard;
