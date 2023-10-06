@@ -88,17 +88,6 @@ Requisitos não funcionais
 
 ## Desenvolvimento das Sprints
 
-#### Sprint 0. Construção do Backlog e estrutura de documentações do projeto
-- [x] Reunião de definição de Persona, Funcionalidades e História de Usuários;
-- [x] Reunião de definição inicial de PBI's;
-- [x] Workshop interno sobre GitHub e estruturação do repositório;
-- [X] Backlog Refinement;
-- [x] Estruturação do Backlog no JIRA Softwre;
-- [x] Atualização JIRA - Sprint 0;
-- [x] Integração ao Google Drive para compartilhamento interno da equipe;
-- [x] Abastecimento GitHub - Sprint 0
-- [x] Conclusão e aprovação.
-
 #### Sprint 1. 
 - [ ] Organização de dados de fábricas, clientes e rotas no banco de dados;
 - [ ] Importar dados gerais do SQL para o Power BI;
