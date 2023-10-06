@@ -99,7 +99,18 @@ Requisitos não funcionais
 - [ ] Adicionar filtros e ferramentas interativas ao dashboard;
 - [ ] Conclusão e aprovação.
 
-#### Sprint 2. *Em Breve*
+#### Sprint 2. 
+
+- [ ] Realizar um brainstorm para a execução das atividades/tarefas no Sprint 2;
+- [ ] Entender as necessidades do cliente para o Sprint 2;
+- [ ] Analisar os dados NCM;
+- [ ] Analisar os dados de País/UF;
+- [ ] Estudar boas praticas para construção de dashboard;
+- [ ] Desenvolver o protótipo de tela 1 no PowerBI;
+- [ ] Conferir protótipo da tela 1 PowerBI;
+- [ ] Existem oportunidades de automação ou otimização de processos na cadeia de exportação que podem ser exploradas nesta sprint?
+- [ ] Planejar a apresentação do Sprint 2;
+- [ ] Gravação e edição do vídeo apresentação Sprint 2.
 
 #### Sprint 3. *Em Breve*
 
