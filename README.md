@@ -1,5 +1,5 @@
 <p>
- <img src="https://fatecspgov-my.sharepoint.com/:i:/g/personal/diogo_santos60_fatec_sp_gov_br/EUz91PUhau5DknXMvsRRlU0BUeBgTqg7hJDuivGBZdNcFw?e=RF6XYX"/>
+ <img src="https://imgur.com/VJHBUai"/>
 </p>
 
 # LOGtude- Aprendizado por Projeto Integrado (API) 4º Semestre
