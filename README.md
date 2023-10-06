@@ -1,5 +1,5 @@
 <p>
- <img src="https://i.imgur.com/WgfLsIZ.png"/>
+ <img src="![MicrosoftTeams-image](https://github.com/AmandaSilva25/api4/assets/147158203/461412d6-9827-423c-bfec-331874374f30)"/>
 </p>
 
 # LOGtude- Aprendizado por Projeto Integrado (API) 4º Semestre
