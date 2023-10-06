@@ -1,5 +1,5 @@
 <p>
- <img src="https://i.imgur.com/VJHBUai.png"/>
+ <img src="https://i.imgur.com/bW2Ppxy.png"/>
 </p>
 
 # LOGtude- Aprendizado por Projeto Integrado (API) 4º Semestre
