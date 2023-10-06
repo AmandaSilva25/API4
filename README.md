@@ -89,15 +89,23 @@ Requisitos não funcionais
 ## Desenvolvimento das Sprints
 
 #### Sprint 1. 
-- [ ] Organização de dados de fábricas, clientes e rotas no banco de dados;
-- [ ] Importar dados gerais do SQL para o Power BI;
-- [ ] Modelar dados vinculando códigos entre correlacionados;
-- [ ] Criação e definição de tela de produtividade mensal;
-- [ ] Criação e definição de tela de custos por KM das rotas;
-- [ ] Criação e definição de tela de custos por Unidade;
-- [ ] Criação de layout para tela do Dashboard;
-- [ ] Adicionar filtros e ferramentas interativas ao dashboard;
+
+- [ ] Estudar/entender interface do Jira;
+- [ ] Criar Github;
+- [ ] Criar o Jira;
+- [ ] Desenvolver o 5W2H;
+- [ ] Analisar dados de exportação mundial 2022;
+- [ ] Analisar dados de importação mundial 2022;
+- [ ] Estudar/entender interface do Github;
+- [ ] Entender as necessidades do cliente;
+- [ ] Planejar a apresentação do Sprint 1;
+- [ ] Realizar um brainstorm para a execução das atividades/tarefas;
+- [ ] Criar um protótipo das relações entre os dados apurados;
+- [ ] Conferir o protótipo das relações entre os dados apurados;
+- [ ] Gravação e edição do vídeo apresentação Sprint 1;
+- [ ] Criação do nome e logo da equipe;
 - [ ] Conclusão e aprovação.
+
 
 #### Sprint 2. 
 
