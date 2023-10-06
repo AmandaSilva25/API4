@@ -1,5 +1,5 @@
 <p>
- <img src="![MicrosoftTeams-image](https://github.com/AmandaSilva25/api4/assets/147158203/461412d6-9827-423c-bfec-331874374f30)"/>
+ <img src="https://fatecspgov-my.sharepoint.com/:i:/g/personal/diogo_santos60_fatec_sp_gov_br/EUz91PUhau5DknXMvsRRlU0BUeBgTqg7hJDuivGBZdNcFw?e=RF6XYX"/>
 </p>
 
 # LOGtude- Aprendizado por Projeto Integrado (API) 4º Semestre
