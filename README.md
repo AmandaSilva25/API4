@@ -159,7 +159,7 @@ Com base em pesquisa entre os integrantes da equipe.
 # Equipe
 
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.imgur.com/HFICKxM.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/mIeM8FK.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/71f13cf1-2403-46a8-8bd4-24e76c79ba00" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/1a1d501b-2376-41fd-9d8c-3f8c3cd755ce" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
