@@ -162,7 +162,7 @@ Com base em pesquisa entre os integrantes da equipe.
  <img style="border-radius: 50%;" src="https://i.imgur.com/mIeM8FK.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/GE4diMy.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/acmBnhk.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/QlV9OR2.png" width="150px;" alt=""/>
 </p>
 <p align="center">
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e22c6ccf-0449-4fa2-817e-8491010d36db" width="150px;" alt=""/>
