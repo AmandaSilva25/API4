@@ -161,7 +161,7 @@ Com base em pesquisa entre os integrantes da equipe.
 <p align="center">
  <img style="border-radius: 50%;" src="https://i.imgur.com/mIeM8FK.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/GE4diMy.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/1a1d501b-2376-41fd-9d8c-3f8c3cd755ce" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://www.marktest.com/wap/a/n/id~1cd6.aspx" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
 </p>
 <p align="center">
