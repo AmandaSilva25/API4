@@ -12,7 +12,7 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 * [Objetivo do Projeto](https://github.com/AmandaSilva25/logtude#objetivo-do-projeto)
 * [Tecnologias Usadas](https://github.com/AmandaSilva25/logtude#tecnologias-utilizadas)
 * [Burndown](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
-* [Regras de Negócio](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
+* [Regras de Negócio](https://github.com/AmandaSilva25/logtude#regras-de-neg%C3%B3cio)
 * [Desenvolvimento das Sprints](https://github.com/AmandaSilva25/logtude#desenvolvimento-das-sprints)
 * [Competências desenvolvidas](https://github.com/AmandaSilva25/logtude#compet%C3%AAncias-desenvolvidas)
 * [Autores](https://github.com/marabini10/DALLI-Log-API3#autores)
