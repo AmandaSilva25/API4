@@ -8,13 +8,13 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 # Índice
 
 * [Projeto](https://github.com/AmandaSilva25/api4/blob/main/README.md#projeto-api)
-* [Equipe](https://github.com/marabini10/DALLI-Log-API3#equipe)
-* [Objetivo do Projeto](https://github.com/marabini10/DALLI-Log-API3#objetivo-do-projeto)
-* [Tecnologias Usadas](https://github.com/marabini10/DALLI-Log-API3#tecnologias-utilizadas)
-* [Burndown](https://github.com/marabini10/DALLI-Log-API3#gr%C3%A1fico-burndown)
-* [Regras de Negócio](https://github.com/marabini10/DALLI-Log-API3#regras-de-neg%C3%B3cio)
-* [Desenvolvimento das Sprints](https://github.com/marabini10/DALLI-Log-API3#desenvolvimento-das-sprints)
-* [Competências desenvolvidas](https://github.com/marabini10/DALLI-Log-API3#compet%C3%AAncias-desenvolvidas)
+* [Equipe](https://github.com/AmandaSilva25/logtude#equipe)
+* [Objetivo do Projeto](https://github.com/AmandaSilva25/logtude#objetivo-do-projeto)
+* [Tecnologias Usadas](https://github.com/AmandaSilva25/logtude#tecnologias-utilizadas)
+* [Burndown](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
+* [Regras de Negócio](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
+* [Desenvolvimento das Sprints](https://github.com/AmandaSilva25/logtude#desenvolvimento-das-sprints)
+* [Competências desenvolvidas](https://github.com/AmandaSilva25/logtude#compet%C3%AAncias-desenvolvidas)
 * [Autores](https://github.com/marabini10/DALLI-Log-API3#autores)
 
 # Projeto (API) 
