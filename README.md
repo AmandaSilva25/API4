@@ -167,7 +167,7 @@ Com base em pesquisa entre os integrantes da equipe.
 <p align="center">
  <img style="border-radius: 50%;" src="https://i.imgur.com/7JQdW2l.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/HRZ2BKk.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/6o449Ww.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/zOVcvHG.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/DbA2cEh.png" width="150px;" alt=""/>
 </p>
 
