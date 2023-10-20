@@ -114,33 +114,6 @@ Requisitos não funcionais (tecnologias obrigatórias)
 
 #### Sprint 3. *Em Breve*
 
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-</details>
-
-#### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
 
 # Equipe
 
