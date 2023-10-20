@@ -64,19 +64,20 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
 
   Regras de Negócio
-- 
 
-Requisitos funcionais 
-- Estrutura de banco de dados relacional;   
-- Tela no Power BI sobre a produtividade mensal dos veículos;
-- Tela no Power BI com a evolução dos custos por KM de cada rota (Filtrando por fábricas);
-- Tela no Power BI com evolução dos custos por unidade transportada de cada rota (Filtrando por fábricas);
-- Otimização da distribuição usando a linguagem de Python.
 
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / GitHub / Python / SQL
+Requisitos funcionais    
+- Tela no Power BI sobre Importação mundial 2022;
+- Tela no Power BI sobre Exportação mundial 2022;
+- Tela no Power BI sobre NCM;
+- Tela no Power BI sobre País/UF;
+- Tela no Power BI dashboard interativo.
+
+Requisitos não funcionais (tecnologias obrigatórias)
+- 5W2H
+- Jira Software
+- GitHub
+- Power Bi
 
 ## Desenvolvimento das Sprints
 
