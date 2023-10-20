@@ -47,9 +47,6 @@ Este projeto tem como objetivo compreender profundamente os processos de distrib
   O GitHub desempenha um papel fundamental na documentação dos arquivos do processo de desenvolvimento do projeto e na sua compartilhamento com as partes interessadas. É a principal ferramenta que utilizamos para vincular todas as ferramentas do projeto, fornecendo uma forma organizada de apresentar nosso trabalho aos interessados.
   Essa centralização de informações no GitHub não apenas simplifica a gestão do projeto, mas também garante que todas as partes interessadas tenham acesso às informações mais recentes e relevantes, promovendo assim uma comunicação eficaz e a transparência em todo o ciclo de desenvolvimento.
 
-  ### SQL
-  O SQL desempenha uma função essencial no projeto, sendo a linguagem que utilizamos para gerenciar e manipular os dados da empresa de forma eficiente. Com o SQL, podemos extrair informações relevantes, realizar análises detalhadas e criar consultas personalizadas que embasam as decisões estratégicas do projeto. Além disso, ele facilita a integração de dados de várias fontes, garantindo que tenhamos acesso rápido e preciso às informações necessárias para a reestruturação dos processos de distribuição e a otimização de custos. 
-
   ### Python
   O Python desempenha um papel crucial no projeto, especialmente na otimização da distribuição e minimização dos custos. Utilizamos a linguagem Python para desenvolver algoritmos personalizados que analisam dados complexos relacionados à logística e aos custos operacionais. Esses algoritmos são projetados para encontrar as melhores soluções, considerando múltiplos parâmetros.
 
@@ -57,9 +54,6 @@ Este projeto tem como objetivo compreender profundamente os processos de distrib
   O Power BI desempenha um papel essencial no projeto ao transformar dados brutos em informações visuais e insights acionáveis. Com essa ferramenta de visualização de dados, somos capazes de criar painéis interativos e relatórios dinâmicos que oferecem uma visão clara do desempenho do projeto em tempo real.
 
 O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
-
- ### Google Drive
- O Google Drive é uma ferramenta para apoiar o desenvolvimento do projeto, atuando como um meio de compartilhamento interno de arquivos entre os membros da equipe. Além disso, também serve como repositório para armazenar os vídeos dos workshops realizados internamente pela equipe, garantindo acesso vitalício a esses recursos. Esta plataforma não apenas facilita a colaboração eficiente, mas também promove a organização e a preservação do conhecimento acumulado ao longo do tempo, tornando-se uma parte fundamental do nosso processo de trabalho.
 
 ## Gráfico Burndown
 
