@@ -7,7 +7,7 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 
 # Índice
 
-* [Projeto](https://github.com/marabini10/DALLI-Log-API3#projeto-api)
+* [Projeto](https://github.com/AmandaSilva25/api4/blob/main/README.md#projeto-api)
 * [Equipe](https://github.com/marabini10/DALLI-Log-API3#equipe)
 * [Objetivo do Projeto](https://github.com/marabini10/DALLI-Log-API3#objetivo-do-projeto)
 * [Tecnologias Usadas](https://github.com/marabini10/DALLI-Log-API3#tecnologias-utilizadas)
