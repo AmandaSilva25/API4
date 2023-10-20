@@ -17,7 +17,7 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 * [Competências desenvolvidas](https://github.com/AmandaSilva25/logtude#compet%C3%AAncias-desenvolvidas)
 
 # Projeto (API) 
-Nosso projeto tem como objetivo central a reestruturação dos eixos de distribuição de uma empresa com o intuito de otimizar os custos operacionais. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Python, Power BI e SQL para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
+Nosso projeto tem como objetivo central mapear o potencial de movimentação de cargas no Aeroporto de SJK. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Power BI para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -30,11 +30,11 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo compreender profundamente os processos de distribuição existentes na empresa e identificar áreas onde melhorias podem ser feitas, visando:
-* Redução significativa dos custos operacionais;;
-* Melhoria da eficiência na distribuição;
-* Tomadas de decisão estratégicas com base em dados sólidos;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo compreender as movimentações realizadas nos aeroportos do Brasil e identificar nelas as possiveis cargas que poderiam ser transportadas no Aeroporto de SJK, visando os requisitos básicos do projeto:
+* Desenvolvolver uma estrutura relacional de tabelas com base nos dados disponibilizados;
+* Criar de um Dashboard intuitivo para visualização dos dados apresentadoso no Power BI;
+* Documentar do GitHub e fazer a gestão do projeto desenvolvido no JIRA Software;
+* Documentar o projeto de forma clara e de fácil acesso.
 
 ## Tecnologias Utilizadas
   ### Metodologia Scrum
@@ -47,13 +47,12 @@ Este projeto tem como objetivo compreender profundamente os processos de distrib
   O GitHub desempenha um papel fundamental na documentação dos arquivos do processo de desenvolvimento do projeto e na sua compartilhamento com as partes interessadas. É a principal ferramenta que utilizamos para vincular todas as ferramentas do projeto, fornecendo uma forma organizada de apresentar nosso trabalho aos interessados.
   Essa centralização de informações no GitHub não apenas simplifica a gestão do projeto, mas também garante que todas as partes interessadas tenham acesso às informações mais recentes e relevantes, promovendo assim uma comunicação eficaz e a transparência em todo o ciclo de desenvolvimento.
 
-  ### Python
-  O Python desempenha um papel crucial no projeto, especialmente na otimização da distribuição e minimização dos custos. Utilizamos a linguagem Python para desenvolver algoritmos personalizados que analisam dados complexos relacionados à logística e aos custos operacionais. Esses algoritmos são projetados para encontrar as melhores soluções, considerando múltiplos parâmetros.
+  ### 5W2H
+  O método 5W2H é uma ferramenta de gestão utilizada para definir direcionamentos estratégicos de um plano. 
+A ideia é responder sete perguntas básicas para entender quais são os próximos passos necessários para que aquele projeto inicial seja colocado em prática. Em resumo, o 5W2H é uma metodologia muito simples de ser implementada, já que não exige nenhum tipo de treino ou mesmo ferramenta específica para utilizá-la.
 
   ### Power BI
-  O Power BI desempenha um papel essencial no projeto ao transformar dados brutos em informações visuais e insights acionáveis. Com essa ferramenta de visualização de dados, somos capazes de criar painéis interativos e relatórios dinâmicos que oferecem uma visão clara do desempenho do projeto em tempo real.
-
-O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
+  O Power BI desempenha um papel essencial no projeto ao transformar dados brutos em informações visuais e insights acionáveis. Com essa ferramenta de visualização de dados, somos capazes de criar painéis interativos e relatórios dinâmicos que oferecem uma visão clara do desempenho do projeto em tempo real. O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
 
 ## Gráfico Burndown
 
