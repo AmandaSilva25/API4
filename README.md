@@ -15,7 +15,6 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 * [Regras de Negócio](https://github.com/AmandaSilva25/logtude#regras-de-neg%C3%B3cio)
 * [Desenvolvimento das Sprints](https://github.com/AmandaSilva25/logtude#desenvolvimento-das-sprints)
 * [Competências desenvolvidas](https://github.com/AmandaSilva25/logtude#compet%C3%AAncias-desenvolvidas)
-* [Autores](https://github.com/marabini10/DALLI-Log-API3#autores)
 
 # Projeto (API) 
 Nosso projeto tem como objetivo central a reestruturação dos eixos de distribuição de uma empresa com o intuito de otimizar os custos operacionais. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Python, Power BI e SQL para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
