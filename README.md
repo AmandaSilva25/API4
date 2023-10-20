@@ -14,7 +14,6 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 * [Burndown](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
 * [Regras de Negócio](https://github.com/AmandaSilva25/logtude#regras-de-neg%C3%B3cio)
 * [Desenvolvimento das Sprints](https://github.com/AmandaSilva25/logtude#desenvolvimento-das-sprints)
-* [Competências desenvolvidas](https://github.com/AmandaSilva25/logtude#compet%C3%AAncias-desenvolvidas)
 
 # Projeto (API) 
 Nosso projeto tem como objetivo central mapear o potencial de movimentação de cargas no Aeroporto de SJK. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Power BI para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
@@ -115,12 +114,6 @@ Requisitos não funcionais (tecnologias obrigatórias)
 
 #### Sprint 3. *Em Breve*
 
-# Competências desenvolvidas
-Com base em pesquisa entre os integrantes da equipe.
-
-#### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
