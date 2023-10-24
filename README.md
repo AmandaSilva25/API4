@@ -58,7 +58,9 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
    #### [Sprint 1](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201)
 
-   #### Sprint 2:
+   #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202)
+
+   #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203)
 
 
  ### Requisitos funcionais    
