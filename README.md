@@ -53,12 +53,10 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
   ### Power BI
   O Power BI desempenha um papel essencial no projeto ao transformar dados brutos em informações visuais e insights acionáveis. Com essa ferramenta de visualização de dados, somos capazes de criar painéis interativos e relatórios dinâmicos que oferecem uma visão clara do desempenho do projeto em tempo real. O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
 
-## Gráfico Burndown
 
-   #### [Sprint 0](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200#gr%C3%A1fico-burndown)
+   #### [Sprint 0]
 
    #### Sprint 1:
-![image]()
 
 
 
