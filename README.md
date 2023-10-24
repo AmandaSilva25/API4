@@ -78,7 +78,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
 ## Desenvolvimento das Sprints
 
-#### Sprint 1. 
+#### [Sprint 1](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201)
 
 - [ ] Estudar/entender interface do Jira;
 - [ ] Criar Github;
@@ -97,7 +97,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 - [ ] Conclusão e aprovação.
 
 
-#### Sprint 2. 
+#### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) 
 
 - [ ] Realizar um brainstorm para a execução das atividades/tarefas;
 - [ ] Entender as necessidades do cliente;
@@ -110,7 +110,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 - [ ] Planejar a apresentação do Sprint 2;
 - [ ] Gravação e edição do vídeo apresentação Sprint 2.
 
-#### Sprint 3. *Em Breve*
+#### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) *Em Breve*
 
 
 # Equipe
