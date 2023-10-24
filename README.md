@@ -11,7 +11,6 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 * [Equipe](https://github.com/AmandaSilva25/logtude#equipe)
 * [Objetivo do Projeto](https://github.com/AmandaSilva25/logtude#objetivo-do-projeto)
 * [Tecnologias Usadas](https://github.com/AmandaSilva25/logtude#tecnologias-utilizadas)
-* [Burndown](https://github.com/AmandaSilva25/logtude#gr%C3%A1fico-burndown)
 * [Regras de Negócio](https://github.com/AmandaSilva25/logtude#regras-de-neg%C3%B3cio)
 * [Desenvolvimento das Sprints](https://github.com/AmandaSilva25/logtude#desenvolvimento-das-sprints)
 
@@ -62,6 +61,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
    #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203)
 
+## Regras de Negócio
 
  ### Requisitos funcionais    
 - Tela no Power BI sobre Importação mundial 2022;
@@ -70,7 +70,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 - Tela no Power BI sobre País/UF;
 - Tela no Power BI dashboard interativo.
 
-Requisitos não funcionais (tecnologias obrigatórias)
+### Requisitos não funcionais (tecnologias obrigatórias)
 - 5W2H
 - Jira Software
 - GitHub
