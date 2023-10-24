@@ -53,14 +53,6 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
   O Power BI desempenha um papel essencial no projeto ao transformar dados brutos em informações visuais e insights acionáveis. Com essa ferramenta de visualização de dados, somos capazes de criar painéis interativos e relatórios dinâmicos que oferecem uma visão clara do desempenho do projeto em tempo real. O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
 
 
-   #### Sprint 0
-
-   #### [Sprint 1](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201)
-
-   #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202)
-
-   #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203)
-
 ## Regras de Negócio
 
  ### Requisitos funcionais    
