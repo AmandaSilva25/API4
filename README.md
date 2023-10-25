@@ -83,16 +83,13 @@ MVP - Mínimo Produto Viável (vídeo)
 
 #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) 
 
-- [ ] Realizar um brainstorm para a execução das atividades/tarefas;
-- [ ] Entender as necessidades do cliente;
 - [ ] Analisar os dados NCM;
 - [ ] Analisar os dados de País/UF;
-- [ ] Estudar boas praticas para construção de dashboard;
-- [ ] Desenvolver o protótipo de tela 1 no PowerBI;
+- [ ] Desenvolver o protótipo de tela 2 no PowerBI;
 - [ ] Conferir protótipo da tela 1 PowerBI;
-- [ ] Existem oportunidades de automação ou otimização de processos na cadeia de exportação que podem ser exploradas nesta sprint?
-- [ ] Planejar a apresentação do Sprint 2;
 - [ ] Gravação e edição do vídeo apresentação Sprint 2.
+
+MVP - Mínimo Produto Viável (vídeo)
 
 #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) *Em Breve*
 
