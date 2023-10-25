@@ -17,14 +17,14 @@ Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de
 # Projeto (API) 
 Nosso projeto tem como objetivo central mapear o potencial de movimentação de cargas no Aeroporto de SJK. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Power BI para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 13/09/2023 | Concluido| [Ver Arquivo](https://github.com/marabini10/DALLI-Log-API3/blob/main/Sprint%200/Kick-off%20API%203N.pptx) | 
-|00| 06/10/2023 | Concluido| [Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200) | 
-|01| 25/10/2023| A Fazer |[Ver Diretório](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201) | 
-|02| 15/11/2023 | A fazer|[Ver Diretório](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) | 
-|03| 06/12/2023 | A fazer |[Ver Diretório](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203)  | 
-|Feira de Soluções|12/12/2023 |A fazer |[Ver Apresentação]() | 
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kick Off | 13/09/2023 | Concluido| 
+|00| 06/10/2023 | Concluido| 
+|01| 25/10/2023| A Fazer |
+|02| 15/11/2023 | A fazer|
+|03| 06/12/2023 | A fazer |
+|Feira de Soluções|12/12/2023 |A fazer |
 
 
 # Objetivo do Projeto
