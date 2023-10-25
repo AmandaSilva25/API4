@@ -72,21 +72,19 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
 #### [Sprint 1](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201)
 
-- [ ] Estudar/entender interface do Jira;
-- [ ] Criar Github;
-- [ ] Criar o Jira;
-- [ ] Desenvolver o 5W2H;
-- [ ] Analisar dados de exportação mundial 2022;
-- [ ] Analisar dados de importação mundial 2022;
-- [ ] Estudar/entender interface do Github;
-- [ ] Entender as necessidades do cliente;
-- [ ] Planejar a apresentação do Sprint 1;
-- [ ] Realizar um brainstorm para a execução das atividades/tarefas;
-- [ ] Criar um protótipo das relações entre os dados apurados;
-- [ ] Conferir o protótipo das relações entre os dados apurados;
-- [ ] Gravação e edição do vídeo apresentação Sprint 1;
-- [ ] Criação do nome e logo da equipe;
-- [ ] Conclusão e aprovação.
+- [x] Estudar/entender interface do Jira;
+- [x] Criar Github;
+- [x] Criar o Jira;
+- [x] Desenvolver o 5W2H;
+- [x] Analisar dados de exportação mundial 2022;
+- [x] Analisar dados de importação mundial 2022;
+- [x] Estudar/entender interface do Github;
+- [x] Entender as necessidades do cliente;
+- [x] Realizar um brainstorm para a execução das atividades/tarefas;
+- [x] Criar um protótipo das relações entre os dados apurados;
+- [x] Conferir o protótipo das relações entre os dados apurados;
+- [x] Gravação e edição do vídeo apresentação Sprint 1;
+- [x] Criação do nome e logo da equipe.
 
 
 #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) 
