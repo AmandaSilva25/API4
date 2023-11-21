@@ -97,7 +97,7 @@ Protótipo da tela 1 Interativo desenvolvido no Power BI:
 <img src="https://i.imgur.com/s7lSk7V.jpg"/>
 
 Protótipo da tela 2 desenvolvido no Power BI:
-<img src="https://i.imgur.com/HC78CMg.jpg"/>
+<img src="https://i.imgur.com/HuO0tKr.jpg"/>
 
 #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) 
 
@@ -106,7 +106,7 @@ Protótipo da tela 2 desenvolvido no Power BI:
 - [ ] Conferir falhas nas relações entre dados no BI;
 - [ ] Conferir protótipo da tela 1 BI;
 - [ ] Desenvolver o protótipo da tela 2 BI;
-- [ ] Conferir protótipo da tela 2 BI;
+- [ ] Conferir protótipo da tela 2 BI.
 
 MVP - Mínimo Produto Viável (vídeo)
 
