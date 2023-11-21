@@ -80,7 +80,7 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
 MVP - Mínimo Produto Viável (vídeo)
 
-Protótipo da tela 1 desenvolvida no Power BI;
+Protótipo da tela 1 desenvolvida no Power BI:
 <img src="https://i.imgur.com/HC78CMg.jpg"/>
 
 #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) 
