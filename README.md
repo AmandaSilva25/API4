@@ -99,8 +99,16 @@ Protótipo da tela 1 Interativo desenvolvido no Power BI:
 Protótipo da tela 2 desenvolvido no Power BI:
 <img src="https://i.imgur.com/HC78CMg.jpg"/>
 
-#### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) *Em Breve*
+#### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) 
 
+- [ ] Melhorar visualmente a interface do PowerBI;  
+- [ ] Gravação e edição do vídeo apresentação Sprint 3;
+- [ ] Conferir falhas nas relações entre dados no BI;
+- [ ] Conferir protótipo da tela 1 BI;
+- [ ] Desenvolver o protótipo da tela 2 BI;
+- [ ] Conferir protótipo da tela 2 BI;
+
+MVP - Mínimo Produto Viável (vídeo)
 
 # Equipe
 
