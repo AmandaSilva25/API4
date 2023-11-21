@@ -93,6 +93,12 @@ Protótipo da tela 1 desenvolvida no Power BI:
 
 MVP - Mínimo Produto Viável (vídeo)
 
+Protótipo da tela 1 Interativo desenvolvido no Power BI:
+<img src="https://i.imgur.com/s7lSk7V.jpg"/>
+
+Protótipo da tela 2 desenvolvido no Power BI:
+<img src="https://i.imgur.com/HC78CMg.jpg"/>
+
 #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) *Em Breve*
 
 
