@@ -22,8 +22,8 @@ Sprint | Previsão | Status|
 |Kick Off | 13/09/2023 | Concluido| 
 |00| 06/10/2023 | Concluido| 
 |01| 25/10/2023| A Fazer |
-|02| 15/11/2023 | A fazer|
-|03| 06/12/2023 | A fazer |
+|02| 22/11/2023 | A fazer|
+|03| 05/12/2023 | A fazer |
 |Feira de Soluções|12/12/2023 |A fazer |
 
 
@@ -83,10 +83,10 @@ MVP - Mínimo Produto Viável (vídeo)
 
 #### [Sprint 2](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%202) 
 
-- [ ] Analisar os dados NCM;
-- [ ] Analisar os dados de País/UF;
-- [ ] Desenvolver o protótipo de tela 2 no PowerBI;
-- [ ] Conferir protótipo da tela 1 PowerBI;
+- [x] Analisar os dados NCM;
+- [x] Analisar os dados de País/UF;
+- [x] Desenvolver o protótipo de tela 2 no PowerBI;
+- [x] Conferir protótipo da tela 1 PowerBI;
 - [ ] Gravação e edição do vídeo apresentação Sprint 2.
 
 MVP - Mínimo Produto Viável (vídeo)
