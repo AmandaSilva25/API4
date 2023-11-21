@@ -97,6 +97,7 @@ Protótipo da tela 1 Interativo desenvolvido no Power BI:
 <img src="https://i.imgur.com/s7lSk7V.jpg"/>
 
 Protótipo da tela 2 desenvolvido no Power BI:
+
 <img src="https://i.imgur.com/HuO0tKr.jpg"/>
 
 #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) 
