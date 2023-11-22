@@ -56,8 +56,8 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 ## Regras de Negócio
 
  ### Requisitos funcionais    
-- Tela no Power BI sobre Importação mundial 2022;
-- Tela no Power BI sobre Exportação mundial 2022;
+- Tela no Power BI sobre Importação brasileira 2022;
+- Tela no Power BI sobre Exportação brasileira 2022;
 - Tela no Power BI sobre NCM;
 - Tela no Power BI sobre País/UF;
 - Tela no Power BI dashboard interativo.
@@ -72,8 +72,8 @@ A ideia é responder sete perguntas básicas para entender quais são os próxim
 
 #### [Sprint 1](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%201)
 
-- [x] Analisar dados de exportação mundial 2022;
-- [x] Analisar dados de importação mundial 2022;
+- [x] Analisar dados de exportação brasileira 2022;
+- [x] Analisar dados de importação brasileira 2022;
 - [x] Criar um protótipo das relações entre os dados apurados;
 - [x] Conferir o protótipo das relações entre os dados apurados;
 - [x] Gravação e edição do vídeo apresentação Sprint 1;
