@@ -19,12 +19,12 @@ Nosso projeto tem como objetivo central mapear o potencial de movimentação de 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | 13/09/2023 | Concluido| 
-|00| 06/10/2023 | Concluido| 
-|01| 25/10/2023| A Fazer |
-|02| 22/11/2023 | A fazer|
+|Kick Off | 13/09/2023 | Concluido | 
+|00| 06/10/2023 | Concluido | 
+|01| 25/10/2023 | Concluido |
+|02| 22/11/2023 | A fazer |
 |03| 05/12/2023 | A fazer |
-|Feira de Soluções|12/12/2023 |A fazer |
+|Feira de Soluções|12/12/2023 | A fazer |
 
 
 # Objetivo do Projeto
