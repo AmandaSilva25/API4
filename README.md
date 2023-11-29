@@ -22,7 +22,7 @@ Sprint | Previsão | Status|
 |Kick Off | 13/09/2023 | Concluido | 
 |00| 06/10/2023 | Concluido | 
 |01| 25/10/2023 | Concluido |
-|02| 22/11/2023 | A fazer |
+|02| 22/11/2023 | Concluido |
 |03| 05/12/2023 | A fazer |
 |Feira de Soluções|12/12/2023 | A fazer |
 
@@ -89,7 +89,7 @@ Protótipo da tela 1 desenvolvida no Power BI:
 - [x] Analisar os dados de País/UF;
 - [x] Desenvolver o protótipo de tela 2 no PowerBI;
 - [x] Conferir protótipo da tela 1 PowerBI;
-- [ ] Gravação e edição do vídeo apresentação Sprint 2.
+- [x] Gravação e edição do vídeo apresentação Sprint 2.
 
 MVP - Mínimo Produto Viável (vídeo)
 
