@@ -101,12 +101,12 @@ Protótipo da tela 2 desenvolvido no Power BI:
 
 #### [Sprint 3](https://github.com/AmandaSilva25/logtude/tree/main/Sprint%203) 
 
-- [ ] Melhorar visualmente a interface do PowerBI;  
-- [ ] Gravação e edição do vídeo apresentação Sprint 3;
-- [ ] Conferir falhas nas relações entre dados no BI;
-- [ ] Conferir protótipo da tela 1 BI;
-- [ ] Desenvolver o protótipo da tela 2 BI;
-- [ ] Conferir protótipo da tela 2 BI.
+- [x] Melhorar visualmente a interface do PowerBI;  
+- [x] Gravação e edição do vídeo apresentação Sprint 3;
+- [x] Conferir falhas nas relações entre dados no BI;
+- [x] Conferir protótipo da tela 1 BI;
+- [x] Desenvolver o protótipo da tela 2 BI;
+- [x] Conferir protótipo da tela 2 BI.
 
 MVP - Mínimo Produto Viável (vídeo)
 
