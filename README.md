@@ -110,6 +110,9 @@ Protótipo da tela 2 desenvolvido no Power BI:
 
 MVP - Mínimo Produto Viável (vídeo)
 
+Tela final desenvolvida no Power BI:
+<img src="https://i.imgur.com/0n3H4FL.png"/>
+
 # Equipe
 
 <p align="center">
